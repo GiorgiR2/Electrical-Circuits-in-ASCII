@@ -8,7 +8,7 @@ Example:
 Number of components> 2
 ```
 
-2. Then give component type and impedance/capacity (5 times).
+2. Then give component type and impedance/capacity (2 times).
 
 ```sh
 input {1} (componentType, data)> c 0.01
