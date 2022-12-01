@@ -3,9 +3,9 @@
 #include <string>
 #include <vector>
 
-#include "./functions/calculateOutput.cpp"
-#include "./functions/Schematics.cpp"
-#include "./functions/rePrint.cpp"
+#include "./include/calculateOutput.cpp"
+#include "./include/Schematics.cpp"
+#include "./include/rePrint.cpp"
 
 using namespace std;
 
