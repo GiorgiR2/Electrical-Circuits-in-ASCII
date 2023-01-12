@@ -15,6 +15,6 @@ input {1} (componentType, data)> c 0.01
 input {2} (componentType, data)> r 1000
 ```
 
+Video Demonstration:
 
-![alt text](https://raw.githubusercontent.com/GiorgiR2/Electrical-Circuits-in-ASCII/main/Picture1.png)
-
+[![Watch the video](https://github.com/GiorgiR2/Electrical-Circuits-in-ASCII/blob/main/other/Screenshot.png)](https://github.com/GiorgiR2/Electrical-Circuits-in-ASCII/blob/main/other/video.mp4)
