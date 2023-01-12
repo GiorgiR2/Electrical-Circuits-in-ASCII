@@ -8,12 +8,14 @@ Example:
 Number of components> 2
 ```
 
-2. Then give component type and impedance/capacity (2 times).
+2. Then give component type and resistance/capacity (2 times).
 
 ```sh
 input {1} (componentType, data)> c 0.01
 input {2} (componentType, data)> r 1000
 ```
+
+### As an output Total/reactive power and amperes are calculated.
 
 Video Demonstration:
 
